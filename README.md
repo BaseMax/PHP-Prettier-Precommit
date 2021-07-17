@@ -2,6 +2,8 @@
 
 ### How to use?
 
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+
 You can create a new repository by using this template, so by the way all of your PHP projects will have a nice and good pre-commit and prettier config.
 
 ### How to run and check?
