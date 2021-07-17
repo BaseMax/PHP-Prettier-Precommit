@@ -42,3 +42,10 @@ GraphQL · Markdown · YAML
 https://prettier.io/
 
 https://github.com/prettier/prettier
+
+
+#### What is StyleCI?
+
+StyleCI is a continuous integration tool for your PHP, Python, JavaScript and CSS, JavaScript, Vue and Python developers which makes it super easy to ensure ...
+
+https://styleci.io/
