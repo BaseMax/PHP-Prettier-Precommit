@@ -1,4 +1,4 @@
-# PHP-Prettier-Precommit
+# Project Template: PHP Prettier & Pre-Commit
 
 ### How to use?
 
