@@ -1,11 +1,7 @@
 <?php
-    function sum( $b   , $c)
-    
-    
-      {
-  return $b + $c;     
-      
+function sum($b, $c)
+{
+    return $b + $c;
 }
 
-echo    sum(10     , 10 )
-;
+echo sum(10, 10);
