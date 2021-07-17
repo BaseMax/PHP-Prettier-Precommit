@@ -1,8 +1,8 @@
 # PHP-Prettier-Precommit
 
-### How using
+### How to use?
 
-You can create a new repository by using this template, so by thie way all of your PHP projects will have a nice and good **pre-commit** and **prettier** config.
+You can create a new repository by using this template, so by the way all of your PHP projects will have a nice and good pre-commit and prettier config.
 
 ### How to run and check?
 
