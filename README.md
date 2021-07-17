@@ -22,8 +22,21 @@ And run:
 pre-commit run --all-files
 ```
 
-#### WHat is Pre-Commit?
+#### What is Pre-Commit?
 
 A framework for managing and maintaining multi-language pre-commit hooks.
 
 https://pre-commit.com/
+
+#### What is Prettier?
+
+Prettier is an opinionated code formatter.
+
+> JavaScript · TypeScript · Flow · JSX · JSON
+CSS · SCSS · Less
+HTML · Vue · Angular
+GraphQL · Markdown · YAML
+
+https://prettier.io/
+
+https://github.com/prettier/prettier
